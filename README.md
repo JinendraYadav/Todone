@@ -51,7 +51,7 @@ npm run dev
 
 ## 🔗 Live Demo
 Check out the live version here:
-👉 https://todone.vercel.app
+👉 [https://todone.vercel.app](https://todone-rho.vercel.app/)
 
 ---
 
